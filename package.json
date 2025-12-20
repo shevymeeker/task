@@ -1,0 +1,7 @@
+{
+  "name": "truth-engine",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Objective task prioritization engine",
+  "license": "MIT"
+}
